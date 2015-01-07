@@ -1,0 +1,41 @@
+body {
+  font: 80% arial, helvetica, sans-serif;
+  margin: 0;
+}
+
+.navigation {
+  position: absolute;
+  left: auto;
+  width: 15em;
+}
+
+.content {
+  margin-left: 20%;
+}
+section {
+  width: 72%;
+  padding:10px;
+}
+
+header {
+  background-color:black;
+  color:white;
+  text-align:center;
+  padding:5px;
+}
+nav {
+  line-height:30px;
+  background-color:#eeeeee;
+  height:300px;
+  width:100px;
+  float:left;
+  padding:5px;
+}
+
+footer {
+  background-color:black;
+  color:white;
+  clear:both;
+  text-align:center;
+  padding:5px;
+}
